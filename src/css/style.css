@@ -209,12 +209,13 @@ footer {
 @media screen and (max-width:1200px) {
   body {
     align-items: flex-start;
+    background-image: url('../images/bg-pattern-top-mobile.svg'), url('../images/bg-pattern-bottom-mobile.svg');
   }
 
   main {
     max-width: 23.438rem;
     min-height: 95.625rem;
-    background-image: url('../images/bg-pattern-top-mobile.svg'), url('../images/bg-pattern-bottom-mobile.svg');
+
     padding: 5.125rem 1.625rem 6.313rem 1.625rem;
     gap: 3.125rem;
   }
