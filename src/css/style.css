@@ -183,7 +183,7 @@ main {
 }
 
 .feedback p,
-.feedback p q {
+.feedback p blockquote q {
   max-width: 17.438rem;
   font-size: 1rem;
   font-weight: 500;
