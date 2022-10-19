@@ -38,14 +38,15 @@ body {
   align-items: center;
   justify-content: center;
   position: relative;
+  background-image: url('../images/bg-pattern-top-desktop.svg'), url('../images/bg-pattern-bottom-desktop.svg');
+  background-repeat: no-repeat;
+  background-position: top left, bottom right;
 }
 
 main {
   max-width: 90rem;
   min-height: 50rem;
-  background-image: url('../images/bg-pattern-top-desktop.svg'), url('../images/bg-pattern-bottom-desktop.svg');
-  background-repeat: no-repeat;
-  background-position: top left, bottom right;
+
   padding: 6.375rem 10.313rem;
   display: flex;
   flex-direction: column;
