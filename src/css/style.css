@@ -194,7 +194,7 @@ footer {
   display: flex;
   flex-wrap: nowrap;
   position: absolute;
-  top: 89%;
+  top: 87%;
   left: 50%;
   transform: translate(-50%, -50%);
   min-width: 28.125rem;
